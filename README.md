@@ -68,7 +68,7 @@ Table of Contents
     - [Professional-Grade Module Structure](#professional-grade-module-structure)
     - [Enterprise Practices Implemented](#enterprise-practices-implemented)
   - [CLI \& GUI Usage Examples](#cli--gui-usage-examples)
-    - [🔹 CLI Usage (Command Line Interface)](#-cli-usage-command-line-interface)
+    - [CLI Usage (Command Line Interface)](#-cli-usage-command-line-interface)
       - [Basic Command](#basic-command)
       - [Full CLI Options](#full-cli-options)
       - [Example Command with All Options](#example-command-with-all-options)
@@ -581,7 +581,7 @@ AutoBizGen is designed for seamless execution via both Command-Line Interface (C
 
 ---
 
-### 🔹 CLI Usage (Command Line Interface)
+###  CLI Usage (Command Line Interface)
 
 The CLI offers full flexibility for input selection, country-specific filtering, output formats, AI model choice, logging verbosity, and more — all through environment variables or direct flags.
 
